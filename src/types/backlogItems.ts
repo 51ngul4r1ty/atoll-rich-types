@@ -1,4 +1,4 @@
-export declare enum BacklogItemStatus {
+export enum BacklogItemStatus {
     None = 0,
     NotStarted = 1,
     InProgress = 2,
